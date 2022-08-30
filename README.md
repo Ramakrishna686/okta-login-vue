@@ -61,7 +61,7 @@ You can login with the same account that you created when signing up for your De
 
 ## Integrating The Resource Server
 
-If you were able to successfully login in the previous section you can continue with the resource server example.  Please download and run one of these sample applications in another terminal:
+If you were able to successfully login in the previous section you can continue with the resource server example.  Please do the following stepof these sample applications in another terminal:
 
 ```
 cd server
