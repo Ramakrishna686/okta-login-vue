@@ -65,17 +65,14 @@ If you were able to successfully login in the previous section you can continue 
 
 ```
 cd server
-
 ```
 
 ```
 **npm install**
-
 ```
 
 ```
 **npm run resource-server**
-
 ```
 
 to get sample API data with Authentication
