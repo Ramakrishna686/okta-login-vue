@@ -63,9 +63,19 @@ You can login with the same account that you created when signing up for your De
 
 If you were able to successfully login in the previous section you can continue with the resource server example.  Please download and run one of these sample applications in another terminal:
 
-# cd server
-do
+```
+cd server
+
+```
+
+```
 **npm install**
+
+```
+
+```
 **npm run resource-server**
+
+```
 
 to get sample API data with Authentication
